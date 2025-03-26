@@ -1,0 +1,14 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "description": "Projeto de Backend do site Roadmap.sh",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node cli.js"
+  },
+  "bin": {
+    "task-cli": "cli.cmd"
+  },
+  "author": "",
+  "license": "ISC"
+}

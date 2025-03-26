@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1743012371829,
+    "description": "Casa 2",
+    "status": 1,
+    "createdAt": 1743012371829,
+    "updatedAt": 1743012371829
+  },
+  {
+    "id": 1743012527246,
+    "description": "Casa 2",
+    "status": 0,
+    "createdAt": 1743012527246,
+    "updatedAt": 1743012527246
+  },
+  {
+    "id": 1743012547063,
+    "description": "Casa 5345",
+    "status": 0,
+    "createdAt": 1743012547063,
+    "updatedAt": 1743012872545
+  },
+  {
+    "id": 1743013811984,
+    "description": "Erro no Sistema",
+    "status": 0,
+    "createdAt": 1743013811984,
+    "updatedAt": 1743013811984
+  }
+]
