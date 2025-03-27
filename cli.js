@@ -1,5 +1,4 @@
 const fs = require("fs");
-const functions = require("./functions");
 
 const filePath = "tasks.json";
 
